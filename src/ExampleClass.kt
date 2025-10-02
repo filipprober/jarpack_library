@@ -1,4 +1,4 @@
-package com.example
+package jarpack.example
 
 class ExampleClass {
   // ...
