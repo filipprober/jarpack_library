@@ -1,6 +1,6 @@
-package com.example
+package jarpack.example
 
-import com.example.*
+import jarpack.example.*
 
 fun main(args: Array<String>) {
   val exampleClass = ExampleClass()
