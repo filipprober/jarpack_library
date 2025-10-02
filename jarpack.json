@@ -1,7 +1,7 @@
 {
   "name": "jarpack/example",
   "description": "A sample Jarpack library.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "library",
   "language": "kotlin",
   "license": "MIT",
