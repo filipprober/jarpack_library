@@ -1,0 +1,21 @@
+{
+  "name": "jarpack/example",
+  "description": "A sample Jarpack library.",
+  "version": "0.1.0",
+  "type": "library",
+  "language": "kotlin",
+  "license": "MIT",
+  "homepage": "https://jarpack.com",
+  "keywords": [
+    "jarpack",
+    "library"
+  ],
+  "authors": [
+    {
+      "name": "Filip Prober",
+      "email": "filip.prober@condition.at"
+    }
+  ],
+  "require": {},
+  "repositories": []
+}
